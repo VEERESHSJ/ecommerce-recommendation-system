@@ -28,12 +28,22 @@ This project is a Machine Learning-based Recommendation System that suggests pro
 ---
 
 ## 📂 Dataset
-📥 Dataset Link: 
+This project uses an E-commerce dataset for building recommendation system.
 
+📥 Dataset Link: 
+1. Amazon Electronics Dataset (Recommended ⭐)
+👉 https://www.kaggle.com/datasets/saurav9786/amazon-product-reviews-dataset
+
+2. E-Commerce Product Dataset
+👉 https://www.kaggle.com/datasets/carrie1/ecommerce-data
+
+3. Electronics Ratings Dataset (Simple & Clean)
+👉 https://www.kaggle.com/datasets/edusanketdk/electronics
 ---
 
-## 📸 Output
-![Output](YOUR_IMAGE_LINK)
+##  OUTPUT
+📸 Output<img width="1895" height="924" alt="Screenshot 2026-04-28 111727" src="https://github.com/user-attachments/assets/21b1f036-3645-489c-bf71-0941d5a0ffd1" />
+
 
 ---
 
