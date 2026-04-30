@@ -1,0 +1,10 @@
+user_id,product_id,rating
+1,Mobile,5
+1,Laptop,4
+1,Headphones,3
+2,Mobile,4
+2,Laptop,5
+2,Camera,3
+3,Mobile,2
+3,Camera,5
+3,Headphones,4
